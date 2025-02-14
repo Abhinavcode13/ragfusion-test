@@ -2,6 +2,10 @@
 
 This system is designed to enhance search results by generating `multiple queries` from a user's initial query, conducting vector-based searches, and `re-ranking` the results using the `Reciprocal Rank Fusion` (RRF) algorithm.
 
+## Architecture
+
+![image](https://github.com/user-attachments/assets/d33eb54d-a0eb-4be0-9811-710f2dc1b2b9)
+
 ## Workflow
 
 1. Initial Query: User provides an initial search query.
